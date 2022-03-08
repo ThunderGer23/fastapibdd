@@ -1,3 +1,7 @@
+
+| <img height="190" src="assets/Likeboos.webp" width="190"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Bases de datos Distribuidas<br/>3TV4<br/>Sierra Romero Noe |
+|--------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+
 # Servidor FastAPI
 
 _Acá va un párrafo que describa lo que es el proyecto_
